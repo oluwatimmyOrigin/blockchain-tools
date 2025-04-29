@@ -4,7 +4,7 @@ import time
 import logging
 
 # Replace with your bot token
-bot_token = '7897622625:AAH-DA4CVm6hJUABcD1Ft6kt4Mf87vrXkkM'
+bot_token = ''
 bot = telebot.TeleBot(bot_token)
 
 # Logging setup
